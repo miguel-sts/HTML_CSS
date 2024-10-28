@@ -2,8 +2,17 @@ body{
     font-size: 22px;
 }
 
+h1, h2 {
+    color: blue;
+}
+
 p {
     color: purple;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: gold;
 }
 
 /* Para boas práticas utilizar classes para alterar elementos específicos no CSS */
