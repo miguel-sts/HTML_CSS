@@ -6,6 +6,7 @@ p {
     color: purple;
 }
 
+/* Para boas práticas utilizar classes para alterar elementos específicos no CSS */
 .gray {
     color: gray;
 }
