@@ -10,7 +10,7 @@ p {
     color: purple;
 }
 
-p span {
+.highlight {
     text-transform: uppercase;
     background-color: gold;
 }
