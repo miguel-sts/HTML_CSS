@@ -9,3 +9,7 @@ p {
 .gray {
     color: gray;
 }
+
+#second {
+    font-style: italic;
+}
