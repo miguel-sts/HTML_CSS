@@ -1,7 +1,10 @@
 body{
     font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
 }
 
+/*
 h1, h2 {
     color: blue;
 }
@@ -15,7 +18,7 @@ p {
     background-color: gold;
 }
 
-/* Para boas práticas utilizar classes para alterar elementos específicos no CSS */
+Para boas práticas utilizar classes para alterar elementos específicos no CSS 
 .gray {
     color: gray;
 }
@@ -23,3 +26,4 @@ p {
 #second {
     font-style: italic;
 }
+*/
